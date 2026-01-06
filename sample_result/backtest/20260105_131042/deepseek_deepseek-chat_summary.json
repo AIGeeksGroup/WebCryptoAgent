@@ -1,0 +1,22 @@
+{
+  "model_key": "deepseek_deepseek-chat",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "symbol": "BTCUSDT",
+  "start": "2025-01-05 06:30:00+00:00",
+  "end": "2026-01-05 06:15:00+00:00",
+  "bars": 35040,
+  "decisions": 122,
+  "trades": 10,
+  "win_rate": 0.5,
+  "total_return": 0.05288832663602827,
+  "cagr": 0.053037411063219464,
+  "max_drawdown": 0.07417874574791683,
+  "sharpe": 0.7593849383381388,
+  "avg_trade_return": 0.012663215692051024,
+  "median_trade_return": 0.010292846821562129,
+  "equity_end": 10528.883266360283,
+  "initial_equity": 10000.0,
+  "memory_trades": 122,
+  "llm_fallbacks": 0
+}

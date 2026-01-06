@@ -1,0 +1,22 @@
+{
+  "model_key": "openai_gpt-5.2",
+  "provider": "openai",
+  "model": "gpt-5.2",
+  "symbol": "BTCUSDT",
+  "start": "2025-01-05 06:30:00+00:00",
+  "end": "2026-01-05 06:15:00+00:00",
+  "bars": 35040,
+  "decisions": 122,
+  "trades": 23,
+  "win_rate": 0.6086956521739131,
+  "total_return": 0.01152019958981576,
+  "cagr": 0.011552030595393559,
+  "max_drawdown": 0.04644340921888457,
+  "sharpe": 0.20707790996636297,
+  "avg_trade_return": 0.006924282771147264,
+  "median_trade_return": 0.011676311179816877,
+  "equity_end": 10115.201995898158,
+  "initial_equity": 10000.0,
+  "memory_trades": 122,
+  "llm_fallbacks": 0
+}

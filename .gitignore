@@ -1,0 +1,23 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Backtest outputs and data
+results/
+python/data/ohlcv/
+python/data/experiences.jsonl

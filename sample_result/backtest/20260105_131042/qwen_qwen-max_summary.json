@@ -1,0 +1,22 @@
+{
+  "model_key": "qwen_qwen-max",
+  "provider": "qwen",
+  "model": "qwen-max",
+  "symbol": "BTCUSDT",
+  "start": "2025-01-05 06:30:00+00:00",
+  "end": "2026-01-05 06:15:00+00:00",
+  "bars": 35040,
+  "decisions": 122,
+  "trades": 36,
+  "win_rate": 0.6388888888888888,
+  "total_return": 0.10162954018959414,
+  "cagr": 0.10192251116190332,
+  "max_drawdown": 0.11390087743536481,
+  "sharpe": 0.7995008699263404,
+  "avg_trade_return": 0.011273095691049107,
+  "median_trade_return": 0.013270671111981089,
+  "equity_end": 11016.29540189594,
+  "initial_equity": 10000.0,
+  "memory_trades": 122,
+  "llm_fallbacks": 0
+}

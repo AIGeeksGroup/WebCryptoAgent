@@ -147,7 +147,7 @@ def _local_summary(doc: Dict[str, Any]) -> Dict[str, Any]:
             "tags": ["risk_model"],
             "summary": f"Pool risk score={risk:.2f}",
         }
-    if src == "binance_price_page":
+    if src == "price_page":
         change = meta.get("price_change_pct")
         try:
             change_val = float(change)

@@ -574,7 +574,7 @@ def run_analysis_cycle(args, client, options, experience_store: ExperienceStore)
                         doc = {
                             "source": "binance_price_page",
                             "url": stats.get("url"),
-                            "title": f"{coin} Binance spot",
+                            "title": f"{coin}  spot",
                             "text": text,
                             "coins": [coin],
                             "hash": f"bn-{coin}-{ts()}",
@@ -586,7 +586,7 @@ def run_analysis_cycle(args, client, options, experience_store: ExperienceStore)
                         if stats.get("screenshot"):
                             coin_chart_path[coin] = stats["screenshot"]
                 except Exception as exc:
-                    logging.error("Error scraping Binance for %s: %s", coin, exc)
+                    logging.error("Error scraping  for %s: %s", coin, exc)
                     continue
 
         finally:

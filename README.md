@@ -1,4 +1,4 @@
-# DeFi Backtest Research
+# WebCryptoAgent: Agentic Crypto Trading with Web Informatics
 
 This repository accompanies a research workflow focused on backtesting model-driven trading decisions.
 

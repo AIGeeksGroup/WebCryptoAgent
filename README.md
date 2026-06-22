@@ -2,6 +2,14 @@
 
 This repository accompanies a research workflow focused on backtesting model-driven trading decisions.
 
+> **WebCryptoAgent: Agentic Crypto Trading with Web Informatics**
+> 
+> [Ali Kurban](https://www.linkedin.com/in/kurbana/)\*, [Wei Luo](https://openreview.net/profile?id=%7EWei_Luo17)\*, [Liangyu Zuo](https://www.linkedin.com/in/%E6%A2%81%E9%92%B0-%E5%B7%A6-a5516a14a/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)<sup>†</sup>, [Renda Han](https://dblp.org/pid/399/1761.html), [Zhaolu Kang](https://scholar.google.com/citations?user=XCleBBIAAAAJ), [Hao Tang](https://ha0tang.github.io/), and [Yang Zhao](https://yangyangkiki.github.io/)<sup>‡</sup>
+> 
+> \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
+> 
+> ### [Paper](https://arxiv.org/abs/2601.04687)
+
 ## Purpose and Scope
 
 The codebase is intended for offline backtesting and analysis. It is not a production trading system and does not include proprietary feeds or credentials.

@@ -10,6 +10,15 @@ This repository accompanies a research workflow focused on backtesting model-dri
 > 
 > ### [Paper](https://arxiv.org/abs/2601.04687)
 
+```
+@article{kurban2026webcryptoagent,
+  title={WebCryptoAgent: Agentic Crypto Trading with Web Informatics},
+  author={Kurban, Ali and Luo, Wei and Zuo, Liangyu and Zhang, Zeyu and Han, Renda and Kang, Zhaolu and Tang, Hao},
+  journal={arXiv preprint arXiv:2601.04687},
+  year={2026}
+}
+```
+
 ## Purpose and Scope
 
 The codebase is intended for offline backtesting and analysis. It is not a production trading system and does not include proprietary feeds or credentials.
